@@ -54,7 +54,8 @@ Ensure you only have download locally the mpg.data.xlsx file
    - `D03_02 KNN - Balanced.ipynb`
    - `Cross Validation KNN - Balanced.ipynb`
   
-`P.S For every algorithm you choose to run the order should be the same, Exploratory Data Analysis at first, Preprocessing as a second step, run the algorithm you choose as third step, and for the last step you should run a Cross validation if the file exists.`
+P.S For every algorithm you choose to run the order should be the same, Exploratory Data Analysis at first, Preprocessing as a second step, run the algorithm you choose as third step, and for the last step you should run a Cross validation if the file exists.
+
 ---
 
 ## 📁 Repository Structure
