@@ -43,10 +43,7 @@ This project focuses on developing a **Proof of Concept (POC) for predicting fue
 
 ## 🚀 How to Run the Project
 ### 🔧 Using Google Colad
-Ensure you only have download the mpg.data.xlsx file:
-```bash
-pip install -r requirements.txt
-```
+Ensure you only have download locally the mpg.data.xlsx file
 
 ### ▶️ Run the Notebooks
 1. Open each one of the deliverables using Google Colab
@@ -56,7 +53,8 @@ pip install -r requirements.txt
    - `D03_02 KNN.ipynb`
    - `D03_02 KNN - Balanced.ipynb`
    - `Cross Validation KNN - Balanced.ipynb`
-For every algorithm you choose to run the order should be the same, Exploratory Data Analysis at first, Preprocessing as a second step, run the algorithm you choose as third step, and for the last step you should run a Cross validation if the file exists.
+  
+`P.S For every algorithm you choose to run the order should be the same, Exploratory Data Analysis at first, Preprocessing as a second step, run the algorithm you choose as third step, and for the last step you should run a Cross validation if the file exists.`
 ---
 
 ## 📁 Repository Structure
