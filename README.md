@@ -75,4 +75,4 @@ This project was developed as part of a **Data Science & Business Intelligence B
 
 ---
 
-📌 *This repository showcases the practical application of data science techniques in real-world business scenarios. Feel free to explore and contribute!* 🚀
+📌 *Dive into real-world data science for business! This repository showcases practical applications and is open to your contributions and ideas too!* 🚀
