@@ -6,6 +6,8 @@
 This project focuses on developing a **Proof of Concept (POC) for predicting fuel efficiency (MPG)** based on vehicle attributes. The goal is to assist **car rental companies** in making informed fleet updates. Initially a regression problem, the dataset is now reframed into a **classification task**, categorizing vehicles into **low, medium, and high fuel efficiency**.
 
 ## 📂 Dataset
+The project is developed based on [Code.Hub - Group Project - WE LEAD - Bootcamp on Data Science & Business Intelligence (1).pdf] file's requirements. 
+
 - **Source**: Auto MPG Dataset (398 instances, 8 attributes) (mpg.data.xlsx)
 - **Attributes**:
   - `mpg` (target, converted to categorical: Low, Medium, High)
